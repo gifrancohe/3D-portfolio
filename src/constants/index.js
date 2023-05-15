@@ -117,7 +117,7 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: "Mattelsa S.A.S",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -130,7 +130,7 @@ import {
     },
     {
       title: "React Native Developer",
-      company_name: "Tesla",
+      company_name: "Personal projects",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "Magento 1.x 2.x",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -156,7 +156,7 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "La Patria S.A.S",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
