@@ -9,7 +9,7 @@ import { projects  } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
 const ProjectCard = ({
-  index, name, description, tags, image, soruce_code_link
+  index, name, description, tags, image, source_code_link
 }) => {
   return (
     <motion.div
@@ -27,7 +27,7 @@ const ProjectCard = ({
           <img src={image} alt={name} className='w-full h-full rounded-2x1 object-cover'/>
           <div className='absolute inset-0 flex justify-end m-3 card-img_hover'>
             <div
-              onClick={() => window.open(soruce_code_link, "_blank")}
+              onClick={() => window.open(source_code_link, "_blank")}
               className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
             >
               <img src={github} alt='github' className='w-1/2 h-1/2 object-contain' />
