@@ -176,7 +176,7 @@ import {
       name: "Andrés Rodriguez",
       designation: "Leader Software Factory",
       company: "Mattelsa S.A.S",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "https://randomuser.me/api/portraits/men/4.jpg",
     },
     {
       testimonial:
@@ -184,7 +184,7 @@ import {
       name: "Tatiana Mazo",
       designation: "Product Owner",
       company: "Mattelsa S.A.S",
-      image: "https://randomuser.me/api/portraits/women/5.jpg",
+      image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
@@ -192,7 +192,7 @@ import {
       name: "Esteban Hernadez",
       designation: "Frontend Developer",
       company: "Keyrus S.A.S",
-      image: "https://randomuser.me/api/portraits/men/6.jpg",
+      image: "https://randomuser.me/api/portraits/men/7.jpg",
     },
   ];
   
